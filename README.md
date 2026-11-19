@@ -15,7 +15,7 @@ Run `build.cmd`. It uses the C# compiler that ships with Windows. The output is 
 
 ## Download
 
-Unsigned binaries are published on the GitHub Releases page (`<repo-url>/releases`) together with SHA-256 hashes.
+Unsigned binaries are published on the [Releases page](https://github.com/noematical/lossless-wallpaper/releases) together with SHA-256 hashes. Download `LosslessWallpaper.exe` and run it; there is no installer.
 
 Because the binary is unsigned, Windows SmartScreen may show "Windows protected your PC". That is expected for an unsigned file. To verify what you downloaded, compare its hash with the one in the release notes:
 
