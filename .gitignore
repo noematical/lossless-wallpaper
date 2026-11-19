@@ -1,0 +1,14 @@
+# Build output
+out/
+
+# Generated test images and results
+tests/data/
+
+# Private working files: personal paths, backups and measurements from the author's PC.
+# Never publish these.
+BRIEF.md
+backup/
+feasibility/
+reference/
+spike/
+*.reg
